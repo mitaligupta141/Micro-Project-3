@@ -22,6 +22,7 @@ Array.from(buttons).forEach((button)=>{
       
       }
       display.value = ans;
+      string = ans;
     }
 
     catch(e){
